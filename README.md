@@ -10,3 +10,4 @@ Il chatbot è stato creato utilizzando Node-red, uno strumento di sviluppo visiv
 <br> I vari flussi creati da Node-red vengono archiviati tramite file json, permettendo così uno scambio facile dei dati.
 <br><i> Il runtime è basato su Node.js
 
+# IoT_Asynchronous_Project
